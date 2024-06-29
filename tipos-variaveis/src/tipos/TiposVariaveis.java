@@ -1,3 +1,4 @@
+package tipos;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
        String nome = "Milena";
@@ -7,6 +8,6 @@ public class TiposVariaveis {
        double salarioMinimo = 2500.78;
        float pi = 3.14f;
        char sexo = 'F';
-       boolean casado = true;
+       boolean casado = true; 
     }
 }
